@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_tam_3">24sp</dimen>
+    <dimen name="text_tam_2">18sp</dimen>
+    <dimen name="text_tam_1">14sp</dimen>
+
+    <!-- Margens e paddings -->
+    <dimen name="margin_tam_1">8dp</dimen>
+    <dimen name="margin_tam_2">24dp</dimen>
+    <dimen name="margin_tam_3">32dp</dimen>
+
+    <dimen name="padding_tam_1">16dp</dimen>
+    <dimen name="layout_width">0dp</dimen>
+
+</resources>

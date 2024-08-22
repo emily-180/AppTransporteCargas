@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="msgLoginCampoVazio">Por favor, preencha todos os campos</string>
+    <string name="msgLoginSucesso">Login bem-sucedido</string>
+    <string name="msgLoginErro">Login ou senha incorretos</string>
+
+    <string name="tituloLogin">Login</string>
+    <string name="nomePlaholder">Nome de Usuário</string>
+    <string name="senhaPlaholder">Senha</string>
+    <string name="btnLogin">Entrar</string>
+
+    <string name="nomeMotorista">Nome do motorista</string>
+    <string name="nomeModelo">Modelo</string>
+    <string name="nomePlaca">Placa</string>
+    <string name="escolher_servico">Escolher Serviço</string>
+
+
+    <string name="addresEnderecoOrigem">Endereço de Origem</string>
+    <string name="addresEnderecoDestino">Endereço de Destino</string>
+    <string name="msgAddressConfirmada">Viagem confirmada!</string>
+    <string name="msgAddresErro">Viagem confirmada!</string>
+    <string name="msgAddressVazia">Por favor, preencha todos os campos</string>
+
+    <string name="btnCompartilhar">Compartilhar</string>
+    <string name="textHistorico">Histórico de Viagens</string>
+    <string name="tituloEnderecoDiaalogo">Insira endereço</string>
+    <string name="tituloExcluirViagemDiaalogo">Excluir Viagem</string>
+    <string name="tituloExcluirViagemDiaalogoConfirm">Tem certeza que deseja excluir esta viagem?</string>
+
+    <string name="excluir">Excluir</string>
+    <string name="msgViagemExcluidaSuceso">Viagem excluida com sucesso!</string>
+    <string name="msgViagemExcluidaErro">Erro ao excluir viagem!</string>
+    <string name="cancelar">Cancelar</string>
+</resources>

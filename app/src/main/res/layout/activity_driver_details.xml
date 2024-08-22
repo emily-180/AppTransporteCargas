@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_tam_1"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/textViewDriverName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nomeMotorista"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_tam_3"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewCaminhao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_tam_1"
+        android:text="@string/nomeModelo"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_tam_2"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/textViewLicensePlate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_tam_1"
+        android:text="@string/nomePlaca"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_tam_2"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/textViewChooseService"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_tam_3"
+        android:layout_marginTop="@dimen/margin_tam_3"
+        android:textColor="@color/black"
+        android:text="@string/escolher_servico"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listViewServices"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
